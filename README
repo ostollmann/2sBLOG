@@ -1,0 +1,18 @@
+2sBLOG
+
+## Description:
+Super simple file based blog.
+
+
+
+## Usage:
+Add blog posts as individual files to posts/ numbering them in increasing order (that is how they will be ordered on the blog).
+
+All output comes out as is, including html code. The only thing that gets parsed are links. The format for these is:
+[link]this is the link text, http://thisistheurl.com[/link]
+
+There are four config values to set at the start of index.php (site_name, site_url, site_author, site_author_email).
+
+Note that there is no commenting system of anything like that. It is a pure text output blog...
+
+And thats all!

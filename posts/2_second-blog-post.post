@@ -1,0 +1,8 @@
+[name]Second Blog Post
+[date]19.01.2011
+[time]01:24
+
+This is my second post. The only things 2sBLOG parses are links. Here are two of those:
+
+- [link]New York Times, http://nytimes.com[/link]
+- [link]Wall Street Journal, http://wsj.com[/link]
