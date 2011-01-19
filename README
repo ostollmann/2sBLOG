@@ -13,6 +13,6 @@ All output comes out as is, including html code. The only thing that gets parsed
 
 There are four config values to set at the start of index.php (site_name, site_url, site_author, site_author_email).
 
-Note that there is no commenting system of anything like that. It is a pure text output blog...
+Note that there is no commenting system or anything like that. It is a pure text output blog...
 
 And thats all!
